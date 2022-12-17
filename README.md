@@ -20,11 +20,15 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://npneeraj.hashnode.dev/">
-  <img src="https://img.shields.io/badge/Hashnode-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashnode-purple?logo=hashnode&logoColor=darkblue&style=for-the-badge" />
 </a>
 <a href="https://leetcode.com/npneeraj/">
-	<img src="https://img.shields.io/badge/Leetcode-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+	<img src="https://img.shields.io/badge/Leetcode-grey?logo=leetcode&logoColor=orange&style=for-the-badge" />
+</a> 
+<a href="https://www.buymeacoffee.com/npneeraj">
+  <img src="https://img.shields.io/badge/Buymeacoffee-yellow?logo=buymeacoffee&logoColor=brown&style=for-the-badge" />
+</a>	
+	
 <!-- 	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Nikzy7.profile.id">
 	<br> -->
 <br>
@@ -40,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I am an **[AWS Certified Cloud Practitioner :cowboy_hat_face:](https://www.credly.com/badges/765946c0-6351-4c08-b7cd-d15d398f647b/linked_in_profile)**
 - 📝 Have a look at my: **[Resume](https://www.linkedin.com/in/npneeraj/overlay/1635511308936/single-media-viewer/)**
 
-<h2 align="center">:crossed_swords: Weapons of Choice :crossed_swords:</h2>
+<h2 align="center">:crossed_swords: Artillery :crossed_swords:</h2>
 
 
 ### Languages⚡
@@ -52,14 +56,14 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Cloud ☁
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange" /> 
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
 
 ## Achivements 🏆
 
 🚀 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/765946c0-6351-4c08-b7cd-d15d398f647b/linked_in_profile) <br> <br>
 🚀 [Secured 1st position in The Python Challenge of Internshala in 2020.](https://drive.google.com/file/d/1UH_NayOOmiYr8ZuNS0o7rQytxPW5m41m/view?usp=sharing)<br> <br>
-🚀 [Ranked among Top 3 highest scored percentile students in High School Board & Intermediate Exams]()<br><br>
+
 
 ## Global Certification 🎓
 
