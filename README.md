@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://leetcode.com/npneeraj/">
 	<img src="https://img.shields.io/badge/Leetcode-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Nikzy7.profile.id">
-	<br>
+<!-- 	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Nikzy7.profile.id">
+	<br> -->
 <br>
 </div>
 
