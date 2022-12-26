@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about: **Full Stack Development, Cloud Computing & DevOps **
 - 📫 How to reach me: Drop a mail on neeraj.panwar2016@gmail.com
 - ⚡ Fun fact: I am an **[AWS Certified Cloud Practitioner :cowboy_hat_face:](https://www.credly.com/badges/765946c0-6351-4c08-b7cd-d15d398f647b/linked_in_profile)**
-- 📝 Have a look at my: **[Resume](https://www.linkedin.com/in/npneeraj/overlay/1635511308936/single-media-viewer/)**
+- 📝 Have a look at my: **[Resume](https://www.linkedin.com/in/npneeraj/overlay/1635511965371/single-media-viewer/?profileId=ACoAACgMJEUBSCz0iGcDGpZJQbNPg30mLNpdcX4)**
 
 <h2 align="center">:crossed_swords: Artillery :crossed_swords:</h2>
 
