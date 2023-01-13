@@ -77,8 +77,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 📈 Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=npneeraj&show_icons=true&theme=highcontrast" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=npneeraj&theme=dark&background=000000" />
+<!-- 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=npneeraj&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=npneeraj&theme=dark&background=000000" /> -->
 	<img width= "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npneeraj&layout=compact&theme=vision-friendly-dark" alt="npneeraj Stats" />
 </p>
 
